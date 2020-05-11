@@ -1,0 +1,300 @@
+[2020-05-11 20:19:12,421, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:19:13,323, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 20:19:14,838, INFO ] Successfully recieved data from url
+[2020-05-11 20:19:24,852, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:19:25,821, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 20:19:26,733, INFO ] Successfully recieved data from url
+[2020-05-11 20:19:36,743, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:19:37,734, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 20:19:38,691, INFO ] Successfully recieved data from url
+[2020-05-11 20:19:48,712, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:19:49,630, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 20:19:50,501, INFO ] Successfully recieved data from url
+[2020-05-11 20:20:00,515, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:20:01,428, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 20:20:02,440, INFO ] Successfully recieved data from url
+[2020-05-11 20:20:12,454, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:20:13,168, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 20:20:14,290, INFO ] Successfully recieved data from url
+[2020-05-11 20:20:24,318, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:20:25,267, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 20:20:26,265, INFO ] Successfully recieved data from url
+[2020-05-11 20:20:36,291, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:20:37,276, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 20:20:38,221, INFO ] Successfully recieved data from url
+[2020-05-11 20:20:48,285, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:20:49,260, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 20:20:50,415, INFO ] Successfully recieved data from url
+[2020-05-11 20:21:00,434, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:21:01,392, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 20:21:02,555, INFO ] Successfully recieved data from url
+[2020-05-11 20:21:12,588, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:21:13,577, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 20:21:14,680, INFO ] Successfully recieved data from url
+[2020-05-11 20:21:24,694, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:21:25,660, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 20:21:26,582, INFO ] Successfully recieved data from url
+[2020-05-11 20:21:36,595, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:21:37,551, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 20:21:38,720, INFO ] Successfully recieved data from url
+[2020-05-11 20:21:48,734, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:21:49,700, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 20:21:50,944, INFO ] Successfully recieved data from url
+[2020-05-11 20:22:00,970, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:22:01,903, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 20:22:02,758, INFO ] Successfully recieved data from url
+[2020-05-11 20:22:12,772, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:22:13,676, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 20:22:14,741, INFO ] Successfully recieved data from url
+[2020-05-11 20:22:24,770, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:22:25,643, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:22:25,669, ERROR ] Request failed with status code 429
+[2020-05-11 20:22:35,672, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:22:36,601, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:22:36,625, ERROR ] Request failed with status code 429
+[2020-05-11 20:22:46,642, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:22:47,535, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:22:47,559, ERROR ] Request failed with status code 429
+[2020-05-11 20:22:57,570, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:22:58,456, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:22:58,479, ERROR ] Request failed with status code 429
+[2020-05-11 20:23:08,497, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:23:09,437, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:23:09,465, ERROR ] Request failed with status code 429
+[2020-05-11 20:23:19,478, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:23:20,355, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:23:20,381, ERROR ] Request failed with status code 429
+[2020-05-11 20:23:30,386, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:23:31,330, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:23:31,361, ERROR ] Request failed with status code 429
+[2020-05-11 20:23:41,379, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:23:42,298, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:23:42,322, ERROR ] Request failed with status code 429
+[2020-05-11 20:23:52,336, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:23:53,227, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:23:53,268, ERROR ] Request failed with status code 429
+[2020-05-11 20:24:03,284, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:24:04,179, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:24:04,211, ERROR ] Request failed with status code 429
+[2020-05-11 20:24:14,224, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:24:15,214, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:24:15,230, ERROR ] Request failed with status code 429
+[2020-05-11 20:24:25,253, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:24:26,146, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:24:26,177, ERROR ] Request failed with status code 429
+[2020-05-11 20:24:36,177, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:24:37,081, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:24:37,113, ERROR ] Request failed with status code 429
+[2020-05-11 20:24:47,128, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:24:48,030, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:24:48,054, ERROR ] Request failed with status code 429
+[2020-05-11 20:24:58,063, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:24:58,919, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:24:58,947, ERROR ] Request failed with status code 429
+[2020-05-11 20:25:08,956, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:25:09,834, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:25:09,864, ERROR ] Request failed with status code 429
+[2020-05-11 20:25:19,883, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:25:20,812, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:25:20,840, ERROR ] Request failed with status code 429
+[2020-05-11 20:25:30,863, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:25:31,533, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:25:31,561, ERROR ] Request failed with status code 429
+[2020-05-11 20:25:41,577, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:25:42,484, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:25:42,515, ERROR ] Request failed with status code 429
+[2020-05-11 20:25:52,517, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:25:53,405, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:25:53,429, ERROR ] Request failed with status code 429
+[2020-05-11 20:26:03,440, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:26:04,338, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:26:04,363, ERROR ] Request failed with status code 429
+[2020-05-11 20:26:14,386, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:26:15,264, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:26:15,291, ERROR ] Request failed with status code 429
+[2020-05-11 20:26:25,310, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:26:26,245, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:26:26,274, ERROR ] Request failed with status code 429
+[2020-05-11 20:26:36,285, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:26:37,165, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:26:37,195, ERROR ] Request failed with status code 429
+[2020-05-11 20:26:47,221, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:26:48,116, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:26:48,151, ERROR ] Request failed with status code 429
+[2020-05-11 20:26:58,151, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:26:59,038, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:26:59,069, ERROR ] Request failed with status code 429
+[2020-05-11 20:27:09,089, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:27:09,984, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:27:10,019, ERROR ] Request failed with status code 429
+[2020-05-11 20:27:20,044, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:27:20,954, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:27:20,984, ERROR ] Request failed with status code 429
+[2020-05-11 20:27:30,996, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:27:31,917, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:27:31,951, ERROR ] Request failed with status code 429
+[2020-05-11 20:27:41,957, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:27:42,627, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:27:42,656, ERROR ] Request failed with status code 429
+[2020-05-11 20:27:52,674, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:27:53,543, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:27:53,572, ERROR ] Request failed with status code 429
+[2020-05-11 20:28:03,583, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:28:04,461, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:28:04,486, ERROR ] Request failed with status code 429
+[2020-05-11 20:28:14,507, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:28:15,469, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:28:15,497, ERROR ] Request failed with status code 429
+[2020-05-11 20:28:25,518, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:28:26,405, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:28:26,433, ERROR ] Request failed with status code 429
+[2020-05-11 20:28:36,444, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:28:37,295, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:28:37,323, ERROR ] Request failed with status code 429
+[2020-05-11 20:28:47,344, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:28:48,227, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:28:48,268, ERROR ] Request failed with status code 429
+[2020-05-11 20:28:58,295, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:28:59,252, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:28:59,278, ERROR ] Request failed with status code 429
+[2020-05-11 20:29:09,299, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:29:10,206, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:29:10,236, ERROR ] Request failed with status code 429
+[2020-05-11 20:29:20,250, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:29:21,158, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:29:21,189, ERROR ] Request failed with status code 429
+[2020-05-11 20:29:31,211, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:29:32,121, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:29:32,152, ERROR ] Request failed with status code 429
+[2020-05-11 20:29:42,167, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:29:43,028, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:29:43,058, ERROR ] Request failed with status code 429
+[2020-05-11 20:29:53,072, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:29:53,984, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:29:54,014, ERROR ] Request failed with status code 429
+[2020-05-11 20:30:04,026, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:30:04,902, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:30:04,933, ERROR ] Request failed with status code 429
+[2020-05-11 20:30:14,954, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:30:15,984, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 20:30:16,859, INFO ] Successfully recieved data from url
+[2020-05-11 20:30:26,864, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:30:27,779, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 20:30:28,839, INFO ] Successfully recieved data from url
+[2020-05-11 20:30:38,866, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:30:39,849, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 20:30:40,857, INFO ] Successfully recieved data from url
+[2020-05-11 20:30:50,875, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:30:51,870, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 20:30:52,722, INFO ] Successfully recieved data from url
+[2020-05-11 20:31:02,736, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:31:03,729, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 20:31:04,559, INFO ] Successfully recieved data from url
+[2020-05-11 20:31:14,568, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:31:15,498, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 20:31:16,548, INFO ] Successfully recieved data from url
+[2020-05-11 20:31:26,567, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:31:27,540, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 20:31:28,439, INFO ] Successfully recieved data from url
+[2020-05-11 20:31:38,450, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:31:39,354, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 20:31:40,441, INFO ] Successfully recieved data from url
+[2020-05-11 20:31:50,462, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:31:51,501, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 20:31:52,524, INFO ] Successfully recieved data from url
+[2020-05-11 20:32:02,538, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:32:03,453, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 20:32:04,319, INFO ] Successfully recieved data from url
+[2020-05-11 20:32:14,336, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:32:16,899, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 20:32:17,757, INFO ] Successfully recieved data from url
+[2020-05-11 20:32:27,770, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:32:28,699, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 20:32:29,558, INFO ] Successfully recieved data from url
+[2020-05-11 20:32:39,576, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:32:40,527, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 20:32:41,551, INFO ] Successfully recieved data from url
+[2020-05-11 20:32:51,575, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:32:52,530, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 20:32:53,430, INFO ] Successfully recieved data from url
+[2020-05-11 20:33:03,449, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:33:04,387, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 20:33:05,403, INFO ] Successfully recieved data from url
+[2020-05-11 20:33:15,420, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:33:16,509, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 20:33:17,377, INFO ] Successfully recieved data from url
+[2020-05-11 20:33:27,395, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:33:28,302, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 20:33:29,170, INFO ] Successfully recieved data from url
+[2020-05-11 20:33:39,185, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:33:40,127, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 20:33:41,212, INFO ] Successfully recieved data from url
+[2020-05-11 20:33:51,230, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:33:52,190, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 20:33:53,136, INFO ] Successfully recieved data from url
+[2020-05-11 20:34:03,189, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:34:04,167, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 20:34:05,164, INFO ] Successfully recieved data from url
+[2020-05-11 20:34:15,174, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:34:16,861, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:34:16,876, ERROR ] Request failed with status code 429
+[2020-05-11 20:34:26,883, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:34:27,752, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:34:27,777, ERROR ] Request failed with status code 429
+[2020-05-11 20:34:37,791, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:34:38,645, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:34:38,670, ERROR ] Request failed with status code 429
+[2020-05-11 20:34:48,690, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:34:49,542, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:34:49,569, ERROR ] Request failed with status code 429
+[2020-05-11 20:34:59,584, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:35:00,474, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:35:00,502, ERROR ] Request failed with status code 429
+[2020-05-11 20:35:10,523, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:35:11,431, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:35:11,459, ERROR ] Request failed with status code 429
+[2020-05-11 20:35:21,469, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:35:22,877, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:35:22,890, ERROR ] Request failed with status code 429
+[2020-05-11 20:35:32,910, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:35:33,795, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:35:33,820, ERROR ] Request failed with status code 429
+[2020-05-11 20:35:43,829, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:35:44,670, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:35:44,693, ERROR ] Request failed with status code 429
+[2020-05-11 20:35:54,706, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:35:55,605, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:35:55,634, ERROR ] Request failed with status code 429
+[2020-05-11 20:36:05,656, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:36:06,546, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:36:06,575, ERROR ] Request failed with status code 429
+[2020-05-11 20:36:16,584, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:36:17,481, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:36:17,508, ERROR ] Request failed with status code 429
+[2020-05-11 20:36:27,516, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:36:28,363, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:36:28,391, ERROR ] Request failed with status code 429
+[2020-05-11 20:36:38,410, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:36:39,333, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:36:39,367, ERROR ] Request failed with status code 429
+[2020-05-11 20:36:49,380, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:36:50,331, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:36:50,362, ERROR ] Request failed with status code 429
+[2020-05-11 20:37:00,384, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:37:01,085, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:37:01,115, ERROR ] Request failed with status code 429
+[2020-05-11 20:37:11,135, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:37:12,039, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:37:12,070, ERROR ] Request failed with status code 429
+[2020-05-11 20:37:22,100, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:37:22,999, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:37:23,026, ERROR ] Request failed with status code 429
+[2020-05-11 20:37:33,036, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:37:33,905, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:37:33,935, ERROR ] Request failed with status code 429
+[2020-05-11 20:37:43,956, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:37:44,858, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:37:44,886, ERROR ] Request failed with status code 429
+[2020-05-11 20:37:54,900, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 20:37:56,565, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 429 5488
+[2020-05-11 20:37:56,592, ERROR ] Request failed with status code 429
