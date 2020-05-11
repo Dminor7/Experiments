@@ -5,7 +5,7 @@ import time
 import logging
 
 FORMAT = "[%(asctime)s, %(levelname)s ] %(message)s"
-logging.basicConfig(filename='AppBrain.log', level=logging.DEBUG, format=FORMAT)
+logging.basicConfig(filename='Test.log', level=logging.DEBUG, format=FORMAT)
 
 class AppBrain(object):
     def __init__(self, home_dir='.'):

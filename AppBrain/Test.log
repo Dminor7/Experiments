@@ -1,0 +1,6 @@
+[2020-05-11 21:27:06,086, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 21:27:07,142, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-photo-effect-cartoon-art-filter/com.photobyte.cartooneffect HTTP/1.1" 200 None
+[2020-05-11 21:27:08,120, INFO ] Successfully recieved data from url
+[2020-05-11 21:27:08,129, DEBUG ] Starting new HTTPS connection (1): www.appbrain.com:443
+[2020-05-11 21:27:09,068, DEBUG ] https://www.appbrain.com:443 "GET /app/cartoon-pictures-cartoon-photo-editor/com.thmobile.cartoonme.artphotoeditor HTTP/1.1" 200 None
+[2020-05-11 21:27:10,110, INFO ] Successfully recieved data from url
